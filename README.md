@@ -2,7 +2,7 @@
 
 
 
-A bare-metal firmware implementation for reading environmental data from a Sensirion SHT4x digital sensor using a PIC32 microcontroller over the I2C bus.
+* A bare-metal firmware implementation for reading environmental data from a Sensirion SHT4x digital sensor using a PIC32 microcontroller over the I2C bus.
 
 
 
@@ -10,37 +10,34 @@ A bare-metal firmware implementation for reading environmental data from a Sensi
 
 
 
-This project implements reliable I2C communication between a PIC32 microcontroller and a high-precision Sensirion SHT4x relative humidity and temperature sensor. 
+* This project implements reliable I2C communication between a PIC32 microcontroller and a high-precision Sensirion SHT4x relative humidity and temperature sensor.
 
 
 
 \## Component Details
 
-Microcontroller: PIC32MX675F512L
-
-Sensor: Sensirion SHT45-AD1B
+* Microcontroller: PIC32MX675F512L
+* Sensor: Sensirion SHT45-AD1B
 
 
 
 \## Reference Documentation \& Datasheets
 
-PIC32 PIC32MX675F512L documents: [PIC32MX doc](https://www.microchip.com/en-us/product/pic32mx675f512l)
-
-Sensirion SHT4x Datasheet: [SHT4x doc](https://sensirion.com/media/documents/33FD6951/6A7C10A0/HT_DS_Datasheet_SHT4x_V7.3.pdf)
+* PIC32 PIC32MX675F512L documents: [PIC32MX doc](https://www.microchip.com/en-us/product/pic32mx675f512l)
+* Sensirion SHT4x Datasheet: [SHT4x doc](https://sensirion.com/media/documents/33FD6951/6A7C10A0/HT_DS_Datasheet_SHT4x_V7.3.pdf)
 
 
 
 \## Software Tools
 
-IDE: Microchip MPLAB X IDE
-
-Compiler: XC32 Compiler (xc32-gcc)
+* IDE: Microchip MPLAB X IDE
+* Compiler: XC32 Compiler (xc32-gcc)
 
 
 
 \## Hardware Tool
 
-Hardware Tool: PICkit 3
+* Hardware Tool: PICkit 3
 
 
 
@@ -59,13 +56,8 @@ Hardware Tool: PICkit 3
 
 👨‍💻 Author
 
-Muhammad Haris Masoom
-
-Embedded Systems Engineer
-
-[LinkedIn](www.linkedin.com/in/muhammadharismasoom)
-
-[GitHub](https://github.com/MuhammadHarisMasoom)
-
-
+* Muhammad Haris Masoom
+* Embedded Systems Engineer
+* [LinkedIn](www.linkedin.com/in/muhammadharismasoom)
+* [GitHub](https://github.com/MuhammadHarisMasoom)
 
