@@ -2,7 +2,7 @@
 
 
 
-* A bare-metal firmware implementation for reading environmental data from a Sensirion SHT4x digital sensor using a PIC32 microcontroller over the I2C bus.
+A bare-metal firmware implementation for reading environmental data from a Sensirion SHT4x digital sensor using a PIC32 microcontroller over the I2C bus.
 
 
 
@@ -37,7 +37,7 @@
 
 \## Hardware Tool
 
-* Hardware Tool: PICkit 3
+* PICkit 3 (programmer and debugger)
 
 
 
