@@ -58,6 +58,6 @@ A bare-metal firmware implementation for reading environmental data from a Sensi
 
 * Muhammad Haris Masoom
 * Embedded Systems Engineer
-* [LinkedIn](www.linkedin.com/in/muhammadharismasoom)
+* [LinkedIn](https://www.linkedin.com/in/muhammadharismasoom)
 * [GitHub](https://github.com/MuhammadHarisMasoom)
 
